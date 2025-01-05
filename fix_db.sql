@@ -1,0 +1,1 @@
+-- Conteúdo do fix_db.sql
