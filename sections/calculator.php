@@ -1,0 +1,2 @@
+<?php
+// Seção da calculadora
